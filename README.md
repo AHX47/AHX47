@@ -76,8 +76,8 @@ I turn concepts into working software – from local LLMs to cross‑platform ap
 -    [Facebook Profile](https://www.facebook.com/abdo.abdo.124578)
 -    [Facebook Group](https://facebook.com/groups/1279910790687915)
 -    [Telegram](https://t.me/ABDO_hak47)
--    [Youtube](http://www.youtube.com/@abdo-hak47) – where I share dev experiments
 - ✉️ Email: abdo47hak47@gmail.com
+- [Youtube]() – where I share dev experiments
 - [ResearchGate]()
 
 > *Open to collaborating on ambitious, “impossible” projects. If you have an idea, I’ll help build it.*
