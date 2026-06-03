@@ -7,6 +7,7 @@
 ## 🚀 Live Portfolio
 
 [![View Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://ahx47.github.io/AHX47/Protofilo.html)
+![abdo_hak47](https://github.com/AHX47/AHX47/blob/main/abdo_hak47.png)
 
 🔗 **Experience the full interactive portfolio:** [https://ahx47.github.io/AHX47/Protofilo.html](https://ahx47.github.io/AHX47/Protofilo.html)
 
