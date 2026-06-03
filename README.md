@@ -1,7 +1,18 @@
 # 🧠 Hi, I'm [Abdo_hak47]
+
 ![abdo_hak47](https://github.com/AHX47/AHX47/blob/main/image_877260eb.png)
 
 > *"Any idea → real app. Any language. Any project. Nothing is impossible."*
+
+## 🚀 Live Portfolio
+
+[![View Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://ahx47.github.io/AHX47/Protofilo.html)
+
+🔗 **Experience the full interactive portfolio:** [https://ahx47.github.io/AHX47/Protofilo.html](https://ahx47.github.io/AHX47/Protofilo.html)
+
+> *A deep dive into my projects, skills, and development philosophy — built as a terminal‑inspired web experience.*
+
+---
 
 I’m a **developer, researcher, and tool builder** who lives at the intersection of AI, systems programming, and creative problem solving.  
 I turn concepts into working software – from local LLMs to cross‑platform apps, from batch scripts to full‑stack web platforms.
@@ -86,7 +97,8 @@ I turn concepts into working software – from local LLMs to cross‑platform ap
 
 ## 📊 GitHub stats (live)
 
-comming soon !
+coming soon !
+
 ---
 
 *“Make it work, make it right, make it fast – and if it doesn’t exist, build it yourself.”*
