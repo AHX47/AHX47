@@ -83,14 +83,14 @@ I turn concepts into working software – from local LLMs to cross‑platform ap
 ## 📫 Let's connect
 
 - 🔗 [GitHub](https://github.com/AHX47) (you’re already here)
-- 💼 [LinkedIn](https://linkedin.com/in/abdo_hak47)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdohak-fourtyseven-b1ab41408/)
 -    [Facebook Page](https://www.facebook.com/profile.php?id=61575073132194)
 -    [Facebook Profile](https://www.facebook.com/abdo.abdo.124578)
 -    [Facebook Group](https://facebook.com/groups/1279910790687915)
 -    [Telegram](https://t.me/ABDO_hak47)
 - ✉️ Email: abdo47hak47@gmail.com
-- [Youtube]() – where I share dev experiments
-- [ResearchGate]()
+- [Youtube](https://www.youtube.com/channel/UCSrH5ExsiPGVpZkCyooLdzw) – where I share dev experiments
+- [ResearchGate](https://www.researchgate.net/profile/Abdohak-Fourtysaven?ev=hdr_xprf)
 
 > *Open to collaborating on ambitious, “impossible” projects. If you have an idea, I’ll help build it.*
 
